@@ -9,7 +9,7 @@ DevNest is a fully functional ed-tech platform that enables users to create, con
 | Functionalities  | All the functionalities DevNest provides  |
 | System Architecture  |  Flow of project |
 | API Design  | All the Apis used  |
-| Screen Preview  | Screenhots  |
+| Screen Preview  | Screenshots  |
 
 ## Aim
 DevNest aims to provide: <br/>
