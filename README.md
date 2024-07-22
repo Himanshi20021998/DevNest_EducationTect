@@ -17,7 +17,7 @@ A seamless and interactive learning experience for students, making education mo
 A platform for instructors to showcase their expertise and connect with learners across the globe.
 
 ## Tech Stack
-React.js, Node.js, Express.js, MongoDB, RESTFul APIs, JWT
+HTML, CSS, Tailwind, JS, React.js, Node.js, Express.js, MongoDB, RESTFul APIs, JWT, Cloundinary
 
 ## Functionalities
 
