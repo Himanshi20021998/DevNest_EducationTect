@@ -95,9 +95,5 @@ Response: A success message indicating that the course has been deleted.
 <br/>
 ![3](https://github.com/user-attachments/assets/5b8908db-b8e8-47c0-9b2b-d0b54df79cbe)
 <br/>
-<br/>
-![2](https://github.com/user-attachments/assets/f5c3e167-5575-403e-a031-9e418d417317)
-<br/>
-<br/>
-![1](https://github.com/user-attachments/assets/b064f1f3-4a25-4cce-8b62-139937fac264)
+
 
